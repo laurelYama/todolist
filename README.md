@@ -39,6 +39,7 @@ flutter pub get
 flutter run
 
 📸 Captures d'écran
+lib/images/todolist.PNG
 
 
 <<<<<<< HEAD
@@ -48,10 +49,11 @@ flutter run
 📜 Structure du projet
 lib/
 │── main.dart           # Point d'entrée de l'application
+│── splashScreen.dart   # page flash
 │── task.dart           # Modèle de tâche
 │── task_service.dart   # Service Firebase pour gérer les tâches
-│── task_list_screen.dart  # UI pour lister les tâches
-│── add_edit_task.dart  # UI pour ajouter / modifier une tâche
+│── TaskListScreen.dart  # UI pour lister les tâches
+
 
 
 ✨ Auteur

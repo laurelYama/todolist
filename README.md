@@ -41,6 +41,10 @@ flutter run
 📸 Captures d'écran
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1e705fceadeccd0e10d6db26aa92ae5c4b446efb
 📜 Structure du projet
 lib/
 │── main.dart           # Point d'entrée de l'application
@@ -54,4 +58,8 @@ lib/
 👨‍💻 Laurel YAMA
 📧 Contact : ngwambilaj@gmail.com
 
+<<<<<<< HEAD
 ⭐ N'hésite pas à laisser un star sur le repo si tu trouves ce projet utile ! 🚀
+=======
+⭐ N'hésite pas à laisser un star sur le repo si tu trouves ce projet utile ! 🚀
+>>>>>>> 1e705fceadeccd0e10d6db26aa92ae5c4b446efb

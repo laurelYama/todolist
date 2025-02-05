@@ -39,7 +39,7 @@ flutter pub get
 flutter run
 
 📸 Captures d'écran
-![page d'acceuil](lib/images/todolist.PNG)
+![page main](lib/images/todolist.PNG)
 
 
 
